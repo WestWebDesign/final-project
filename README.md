@@ -8,6 +8,5 @@ https://github.com/WestWebDesign/Final/blob/master/Final%20Web%20Design%20Ruberi
 <h4>*About page</h4>
 <h4>*What you learned in this class</h4>
 <h4>*Several items of your best work</h4>
-<h4>*Why GitHub is important for your development</h4>
-<h4>*Your choice of topic</h4>
-<h4>*What Web Language would you like to learn more about.</h4> 
+<h4>*2 Web Pages of your choice of topic</h4>
+<h4>*What programming Language would you like to learn more about.</h4> 
