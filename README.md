@@ -3,7 +3,7 @@ For this final of Web Design you must create six web pages that are interconnect
 
 Here is the *Ruberic* 
 https://github.com/WestWebDesign/Final/blob/master/Final%20Web%20Design%20Ruberic.xlsx
-
+<hr/>
 <h3>Your final web page must be a portfolio that will include</h3>
 <h4>*About page</h4>
 <h4>*What you learned in this class</h4>
